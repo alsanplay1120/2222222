@@ -20,7 +20,7 @@
     <div id="map"></div>
     <div id="info-panel">
       <p>角色位置：(<span id="latitude">0</span>, <span id="longitude">0</span>)</p>
-      <p>怪獸數量：<span id="monster-count">0</span></p>
+      <p>怪獸數量：<span id="monster-count">100</span></p>
       <button id="login-btn">登入</button>
     </div>
   </div>
